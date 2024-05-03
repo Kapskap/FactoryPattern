@@ -9,4 +9,8 @@ echo "<h2>Wzorce Strukturalne</h2>";
 echo "<a href=Structural\Bridge\index.php> Most</a><br>";
 echo "<a href=Structural\Facade\index.php> Fasada</a><br>";
 echo "<br>";
+echo "<br>";
+echo "<h2>Wzorce Behawioralne</h2>";
+echo "<a href=Behavioral\Strategy\index.php> Strategia</a><br>";
+echo "<br>";
 echo "<a href=info.php> PHP info</a><br>";
